@@ -2,7 +2,7 @@ console.clear();
 require("hackedcolors");
 let print = () => {
 	process.stdout.write(" ".random)
-	setTimeout(() => {
+	setInterval(() => {
 		print()
 	}, 1);
 }
