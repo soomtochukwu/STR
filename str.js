@@ -1,5 +1,5 @@
 console.clear();
-require("colors");
+require("hackedcolors");
 let print = () => {
 	process.stdout.write(" ".random)
 	setTimeout(() => {
