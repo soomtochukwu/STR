@@ -10,7 +10,7 @@
   "author": "mazi",
   "license": "ISC",
   "dependencies": {
-    "hackedcolors": "^1.4.0"
+    "hackedcolors": "^1.0.0"
   },
   "devDependencies": {},
   "repository": {
